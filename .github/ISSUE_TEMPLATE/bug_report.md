@@ -5,21 +5,21 @@ title: "[Bug] "
 labels: bug
 ---
 
-### Describe the bug
+## Describe the bug
 
 A clear description of what the bug is.
 
-### Steps to reproduce
+## Steps to reproduce
 
 1.
 2.
 3.
 
-### Expected behavior
+## Expected behavior
 
 What you expected to happen.
 
-### Environment
+## Environment
 
 - OS:
 - Version/commit:
