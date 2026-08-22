@@ -8,5 +8,6 @@
 [![Open issues](https://img.shields.io/github/issues/rkalinteev-bot/Claude)](https://github.com/rkalinteev-bot/Claude/issues)
 [![Open PRs](https://img.shields.io/github/issues-pr/rkalinteev-bot/Claude)](https://github.com/rkalinteev-bot/Claude/pulls)
 [![Repo size](https://img.shields.io/github/repo-size/rkalinteev-bot/Claude)](https://github.com/rkalinteev-bot/Claude)
+[![Top language](https://img.shields.io/github/languages/top/rkalinteev-bot/Claude)](https://github.com/rkalinteev-bot/Claude)
 
 Personal workspace for Claude Code experiments.
