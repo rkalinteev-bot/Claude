@@ -11,5 +11,6 @@
 [![Top language](https://img.shields.io/github/languages/top/rkalinteev-bot/Claude)](https://github.com/rkalinteev-bot/Claude)
 [![Version](https://img.shields.io/github/v/release/rkalinteev-bot/Claude)](https://github.com/rkalinteev-bot/Claude/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/rkalinteev-bot/Claude/total)](https://github.com/rkalinteev-bot/Claude/releases)
+[![Language count](https://img.shields.io/github/languages/count/rkalinteev-bot/Claude)](https://github.com/rkalinteev-bot/Claude)
 
 Personal workspace for Claude Code experiments.
